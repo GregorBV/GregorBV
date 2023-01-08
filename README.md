@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GregorBV 
-- 👀 I’m interested in JS, Web Dev, QA.
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @GregorBV;
+- 👀 I’m interested in JS, Web Dev, QA;
+- 🌱 I’m currently learning JavaScript;
 - 💞️ I’m looking to collaborate on some interest project, internship other community.
 
 
